@@ -26,7 +26,7 @@ I also can deal with:
     
 📫 How to reach me:
     
-    Mail me at george.ayman97@gmail.com
+  Mail me at <a href="mailto:george.ayman97@gmail.com">george.ayman97@gmail.com</a>&#129313;
 
 Check my <a href="https://georgeayman97.github.io/portofolio/" >portfolio</a>&#128536;
 
