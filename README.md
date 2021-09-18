@@ -21,7 +21,7 @@ I also can deal with:
     BIG DATA Analysis  @egfwd.com/data
     
 💞️ I’m looking to collaborate on Helping teammates and improving people's knowledge
-    people who have any question, Im Really Really interested to help them.
+    people who have any question, Im Really Really excited to help them.
     also i would like Working with people from different cultural backgrounds.
     
 📫 How to reach me:
