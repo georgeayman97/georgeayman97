@@ -4,7 +4,7 @@ I'm a Software Engineer, graduated from Alexandria University, Computer and Comm
 
 👀 I’m interested in:
 
-more than 10000 line: php, html, Css
+more than 10000 line: php, Laravel, html, Css
 
 more than 1000 line: Java, C, C#, Python, SQL, MATLAB, HTML, CSS
 
@@ -17,7 +17,6 @@ I also can deal with:
    
 🌱 I’m currently learning:
     
-    PHP Using LARAVEL @udemy.com
     BIG DATA Analysis  @egfwd.com/data
     
 💞️ I’m looking to collaborate on Helping teammates and improving people's knowledge
